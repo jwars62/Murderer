@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoff/weapons/briefcasebomb/_-gt5_weapon_briefcase_bomb_glass_c"
+	"$surfaceprop" "Default"
+	"$translucent" "1"
+}

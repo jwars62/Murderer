@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilrobot/raygunmk2/_-gmtl_t6_wpn_zmb_raygun2_col3"
+	"$bumpmap"    "models/lilrobot/raygunmk2/mtl_t6_wpn_zmb_raygun2_nml3"
+	
+}

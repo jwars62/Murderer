@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilrobot/raygunmk2/mtl_t6_wpn_zmb_raygun2_glow2"
+	"$selfillum" 1
+}
