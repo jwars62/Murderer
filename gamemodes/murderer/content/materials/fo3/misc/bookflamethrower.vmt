@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "FO3/misc/bookflamethrower"
+	 $envmap "env_cubemap"
+	 $bumpmap "FO3/misc/bookflamethrower_na"
+	 $normalmapalphaenvmapmask "1"
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "FO3/misc/book_duckandcover"
+	 $envmap "env_cubemap"
+	 $bumpmap "FO3/misc/duckandcover_n"
+	 $normalmapalphaenvmapmask "1"
+}

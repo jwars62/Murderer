@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "FO3/misc/book_pugilism_d"
+	 $envmap "env_cubemap"
+	 $bumpmap "FO3/misc/book_pugilism_n"
+	 $normalmapalphaenvmapmask "1"
+}

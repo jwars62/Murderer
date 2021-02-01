@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "FO3/misc/lying"
+	 $bumpmap "FO3/misc/lying_na"
+}

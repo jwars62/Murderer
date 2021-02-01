@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "FO3/misc/gunsandbullets_00_00_00"
+	 $envmap "env_cubemap"
+	 $bumpmap "FO3/misc/gunsandbulletsna"
+	 $normalmapalphaenvmapmask "1"
+}

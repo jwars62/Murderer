@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "FO3/misc/bookelectronics"
+	 $envmap "env_cubemap"
+	 $bumpmap "FO3/misc/bookelectronics_n"
+	 $normalmapalphaenvmapmask "1"
+}
