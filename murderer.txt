@@ -1,9 +1,0 @@
-"Gamemode"
-{
-	"base"		"base"
-	"title"		"Murderer"
-	"maps"		"^md_|^mu_|^ph_|^ttt_|^gm_"
-	"menusystem"	"1"
-	"workshopid" "2373405638"
-	"version"	"29"
-}
