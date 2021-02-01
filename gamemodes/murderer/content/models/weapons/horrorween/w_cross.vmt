@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/weapons/horrorween/w_cross"
+	"$phong"	"1"
+	"$phongexponent""40"
+	"$halflambert"	"1"
+}

@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/blackops2_raygunmk2/viewmodel_usa_raider_c"
+	"$bumpmap" "models/weapons/blackops2_raygunmk2/viewmodel_usa_raider_n"
+	"$surfaceprop" "Default"
+	"$phong" "1"
+	
+	$phongexponent	5
+	$phongexponenttexture	"models/weapons/blackops2_raygunmk2/arms_s"
+	$phongboost				1.0
+	$phongfresnelranges		"[0 0.5 1]"
+}
+

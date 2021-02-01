@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\d3_chainsaw\chainsaw"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\d3_chainsaw\chainsaw_ref"
+        "$envmaptint" "[.25 .25 .25]"
+}

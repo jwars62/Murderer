@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/blackops2_raygunmk2/RGII_Glow"
+	"$selfillummask" "models/weapons/blackops2_raygunmk2/RGII_Glow"
+	"$Selfillum" "1"
+
+}
