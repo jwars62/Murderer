@@ -5,5 +5,189 @@
 	"maps"		"^md_|^mu_|^ph_|^ttt_|^gm_"
 	"menusystem"	"1"
 	"workshopid" "2373405638"
-	"version"	"29"
+	"settings"
+	{
+		1
+		{
+			"name"		"mu_language"
+			"text"		"language"
+			"help"		"The language Murder should use"
+			"type"		"Text"
+			"default"	"french"
+		}
+		2
+		{
+			"name"		"mu_roundlimit"
+			"text"		"number of rounds"
+			"help"		"Number of rounds we should play before map change"
+			"type"		"Numeric"
+			"default"	"10"
+		}
+		
+		3
+		{
+			"name"		"mu_loot_start_respawn"
+			"text"		"respawn all loot at start"
+			"help"		"make all the clues reappear at the start of the round"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+		
+		4
+		{
+			"name"		"mu_delai"
+			"text"		"delai between 2 clue respawn"
+			"help"		"delay before the appearance of the next clue"
+			"type"		"Numeric"
+			"default"	"8"
+		}
+
+		5
+		{
+			"name"		"mu_pb1"
+			"text"		"first bystander's landing"
+			"help"		"number of clues required to obtain the 1st reward (bystander)"
+			"type"		"Numeric"
+			"default"	"3"
+		}
+
+
+		6
+		{
+			"name"		"mu_pb2"
+			"text"		"second bystander's landing"
+			"help"		"number of clues required to obtain the 2de reward (bystander)"
+			"type"		"Numeric"
+			"default"	"5"
+		}
+
+
+		7
+		{
+			"name"		"mu_pb3"
+			"text"		"third bystander's landing"
+			"help"		"number of clues required to obtain the 3de reward (bystander)"
+			"type"		"Numeric"
+			"default"	"8"
+		}
+
+		8
+		{
+			"name"		"mu_pm1"
+			"text"		"first murderer's landing"
+			"help"		"number of clues required to obtain the 1st reward (murder)"
+			"type"		"Numeric"
+			"default"	"2"
+		}
+
+
+		9
+		{
+			"name"		"mu_pm2"
+			"text"		"second murderer's landing"
+			"help"		"number of clues required to obtain the 2de reward (murder)"
+			"type"		"Numeric"
+			"default"	"4"
+		}
+
+
+		10
+		{
+			"name"		"mu_pm3"
+			"text"		"third murderer's landing"
+			"help"		"number of clues required to obtain the 3th reward (murder)"
+			"type"		"Numeric"
+			"default"	"6"
+		}
+
+		11
+		{
+			"name"		"mu_pm4"
+			"text"		"fourth murderer's landing"
+			"help"		"number of clues required to obtain the 4th reward (murder)"
+			"type"		"Numeric"
+			"default"	"8"
+		}
+
+		12
+		{
+			"name"		"mu_localchat"
+			"text"		"local chat"
+			"help"		"when enabled only nearby players can hear other players"
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+
+		13
+		{
+			"name"		"mu_localchat_range"
+			"text"		"local chat range"
+			"help"		"The range at which you can hear other players"
+			"type"		"Numeric"
+			"default"	"500"
+		}
+
+		14
+		{
+			"name"		"mu_disguise"
+			"text"		"disquise"
+			"help"		"Whether the murderer can disguise as dead players"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+
+		15
+		{
+			"name"		"mu_disguise_removeonkill"
+			"text"		"disguise remove on kill"
+			"help"		"Remove the murderer's disguise when he kills someone"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+
+		16
+		{
+			"name"		"mu_flashlight_battery"
+			"text"		"flashlight battery"
+			"help"		"How long the flashlight should last in seconds (0 for infinite)"
+			"type"		"Numeric"
+			"default"	"0"
+		}
+
+		17
+		{
+			"name"		"mu_show_bystander_tks"
+			"text"		"show team kills"
+			"help"		"Should show name of killer in chat on a bystander team kill"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+
+		18
+		{
+			"name"		"mu_murderer_fogtime"
+			"text"		"murderer fogtime"
+			"help"		"Time (in seconds) it takes for a Murderer to show fog for no kills, 0 to disable"
+			"type"		"Numeric"
+			"default"	"60 * 4"
+		}
+
+
+		19
+		{
+			"name"		"mu_moveafktospectator"
+			"text"		"move afk to spectator"
+			"help"		"Should we move AFK players to spectator on round end"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+
+		20
+		{
+			"name"		"mu_delay_after_enough_players"
+			"text"		"delay after enough players"
+			"help"		"Time (in seconds) we should wait to start the round after enough players have joined"
+			"type"		"Numeric"
+			"default"	"10"
+		}
 }
