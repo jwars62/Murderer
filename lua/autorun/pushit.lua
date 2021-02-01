@@ -21,7 +21,7 @@ local ent = ply:GetEyeTrace().Entity
 				if ply:GetPos():Distance( ent:GetPos() ) <= 100 then
 					ply:EmitSound( PushSound[math.random(#PushSound)], 100, 100 )
 					local velAng = ply:EyeAngles():Forward()
-					ent:SetVelocity( velAng * 3000 )
+					ent:SetVelocity( velAng * 1000 )
 					if ent:IsPlayer() then
 						ent:ViewPunch( Angle( math.random( -30, 30 ), math.random( -30, 30 ), 0 ) )
 					end
