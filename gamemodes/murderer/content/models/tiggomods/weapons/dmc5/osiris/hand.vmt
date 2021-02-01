@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\tiggomods\weapons\DmC5\Osiris/hand"
+	"$bumpmap" "models\tiggomods\weapons\DmC5\Osiris/handbump"
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "0.5"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$phongtint"	"[.2 .2 .2]"
+	//"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "0"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "500"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".5"
+	"$rimlighttint" "[0.2 0.2 0.2]"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tiggomods\weapons\DmC5\Osiris/t_dante_weapons_angel_d"
+	"$bumpmap" "models\tiggomods\weapons\DmC5\Osiris/t_dante_weapons_angel_n"
+	"$phong" "1"
+	"$phongexponent" "0.5"
+	"$phongboost" "0.25"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$phongtint"	"[.2 .2 .2]"
+	//"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "0"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "500"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".5"
+	"$rimlighttint" "[0.2 0.2 0.2]"
+}
