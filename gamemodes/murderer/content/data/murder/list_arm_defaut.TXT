@@ -1,0 +1,75 @@
+lum = {
+        "weapon_glowstick_aqua",
+        "weapon_glowstick_blue",
+        "weapon_glowstick_green",
+        "weapon_glowstick_purple",
+        "weapon_glowstick_red",
+	"weapon_e_poorcross",
+	"weapon_minecraft_torch",
+	"weapon_glowstick_yellow",
+	"weapon_gascan",
+}
+
+lot_mu = {
+        "weapon_vilka",
+        "hermitupurple",
+        "epitaph_huita",
+        "king_crimshuita",
+        "jjgma_goldexperience",
+	"weapon_ninjaknife",
+	"star_platinum_the_world",
+	"sticky_finger",
+	"stone_free",
+	"the_hand",
+	"the_world_high_dio",
+	"real_knife_admin",
+	"3dgear",
+}
+
+lot_t4 = {
+	"thomas_gun",
+	"weapon_undertale_sans",
+	"qtg_weapon_underswap_papyrus",
+	"aero_smith",
+	"the_world",
+}
+
+lot_t3 = {
+	"weapon_e_poorcross",
+	"gidzco_shrekzooka",
+	"weapon_undertale_sans",
+	"qtg_weapon_underswap_papyrus",
+	"sup",
+	"aero_smith",
+}
+
+lot_t2 = {
+	"weapon_nyangun",
+	"weapon_rptdnw",
+	"weapon_dearsistah",
+	"weapon_e_poorcross",
+	"sex_pistol",
+	"glow",
+	"sup",
+}
+
+lot_t1 = {
+        "weapon_e_banana",
+        "deika_raygunmark2",
+	"weapon_bladebow",
+	"sup",
+}
+
+ArmMu = {
+        "weapon_mu_knife",
+        "weapon_mu_knife",
+        "weapon_mu_knife",
+        "weapon_mu_knife",
+		"weapon_mu_knife",
+        "weapon_chainsaw",
+        "weapon_lordi_sledgehammer",
+        "weapon_chainsaw_new",
+        "weapon_nessbat",
+        "weapon_dmcosiris",
+		"memesfryingpan"
+}

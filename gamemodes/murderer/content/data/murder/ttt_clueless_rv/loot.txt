@@ -1,0 +1,1 @@
+[{"angle":"{0 -71.4834 0}","model":"models/FO3/misc/bookguns.mdl","pos":"[120.6 -304.2619 92.0814]"}]
